@@ -1,6 +1,6 @@
 # Urban Sound Classification
 Final project of IDS705 Principles of Machine Learning at Duke University taught by Kyle Bradbury.
-Applying feature extraction and deep learning methods to classify urban sounds.
+Feature extraction and deep learning methods are applied to classify urban sounds.
 - Short presentation of the project [here](https://github.com/angela18199/Sound_classification_urbansound8k/blob/master/Project_Presentation.mp4).
 - Project report [here](https://github.com/angela18199/Sound_classification_urbansound8k/blob/master/Project_Report.pdf).
 - Notebook [here](https://github.com/angela18199/Sound_classification_urbansound8k/blob/master/Sound_classifcation.ipynb).
